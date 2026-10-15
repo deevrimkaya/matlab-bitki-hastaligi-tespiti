@@ -23,3 +23,18 @@ Derin öğrenme teknikleri kullanarak bitki yaprağı görüntülerini analiz ed
 
 ## Proje Kapsamı
 Akademik çalışma kapsamında farklı model yapılandırmaları üzerinde çok sayıda deneme belgelenmiştir. Çalışma, derin öğrenme modellerinin eğitimi ve performans değerlendirmesi üzerine uygulamalı deneyim kazanılmasını amaçlamaktadır.
+## Proje Görselleri
+
+### Deneme 03 – Eğitim Grafiği
+![Deneme 03 Eğitim Grafiği](deneme_03_egitim.png.png)
+
+### Deneme 03 – Karışıklık Matrisi
+![Deneme 03 Karışıklık Matrisi](deneme_03_karisiklik_matrisi.png.png)
+
+### Deneme 04 – Eğitim Grafiği
+![Deneme 04 Eğitim Grafiği](deneme_04_egitim.png.png)
+
+### Deneme 04 – Karışıklık Matrisi
+![Deneme 04 Karışıklık Matrisi](deneme_04_karisiklik_matrisi.png.png)
+
+
